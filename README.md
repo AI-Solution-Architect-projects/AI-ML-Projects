@@ -1,4 +1,5 @@
 Overview
+
 This repository contains a custom‑trained computer vision model for maize leaf disease detection.
 The model identifies common maize diseases directly from leaf images, enabling farmers, agronomists, and agricultural AI systems to perform fast, reliable, automated diagnosis.
 
